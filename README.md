@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on ssafy
 
 <!--
 **hyKSJ/hyKSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
